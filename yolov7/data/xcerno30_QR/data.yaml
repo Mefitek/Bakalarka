@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['qr_code']
+
+roboflow:
+  workspace: matej-cernohous
+  project: xcerno30-qr-codes
+  version: 21
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/matej-cernohous/xcerno30-qr-codes/dataset/21

@@ -1,0 +1,2 @@
+Requirement already satisfied: torch in c:\users\mefit\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages (1.12.1)
+Requirement already satisfied: typing-extensions in c:\users\mefit\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages (from torch) (4.4.0)

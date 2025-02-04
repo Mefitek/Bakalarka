@@ -1,0 +1,6 @@
+classes=1
+train  = /SSD/COCO-jirka/Host/cernohous/yolov4/my_train.txt
+valid  = /SSD/COCO-jirka/Host/cernohous/yolov4/my_valid.txt
+names = /SSD/COCO-jirka/Host/cernohous/yolov4/QR_points.names
+backup = /SSD/COCO-jirka/Host/cernohous/yolov4/backup/
+eval=coco
